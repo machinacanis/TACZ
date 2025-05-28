@@ -1,3 +1,17 @@
+# TACZ For Deepwiki Synchronization
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/machinacanis/TACZ)
+
+这个仓库用于添加一个给 [Deepwiki](https://deepwiki.com/) 同步用的 Badge（就是上面这个）使其可以自动进行同步，就这样。
+
+Deepwiki是一个基于LLM的自动文档生成工具，同时支持基于RAG的交互式问答功能和MCP工具，点击上面的 Ask Deepwiki 按钮即可前往为这个仓库索引的 Deepwiki。
+
+This repository is used to add a badge for [Deepwiki](https://deepwiki.com/) synchronization, making it automatically synchronizable, that's all.
+
+Deepwiki is an automatic document generation tool based on LLM, which also supports interactive Q&A functions based on RAG and MCP tools. Clicking the Ask Deepwiki button above will take you to the Deepwiki indexed for this repository.
+
+---
+
 <p align="center">
     <img width="300" src="https://s2.loli.net/2024/04/30/NJrstR1QzpoLyIT.png" alt="title">
 </p>
